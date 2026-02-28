@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/92afeac6-c6c5-44a3-be9e-5dcb6e73947f
 ## Setup
 
 
-1. Install into a Unity project via UPM from the repository URL: `https://github.com/gilbertdyer2/DrawRec3D_UPM`
+1. Install into a Unity project via UPM from the repository URL: `https://github.com/gilbertdyer2/DrawRec3D_UPM.git`
 
     *(Window->Package Manager->Click upper left '+' icon->Install package from git URL)*
 
